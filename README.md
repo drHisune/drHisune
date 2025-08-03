@@ -6,7 +6,7 @@
 </p>
 
 --- 
-Backend developer striving for systematic thinking, well-structured architecture, and high-quality implementation. 
+Backend developer focused on systematic thinking, well-structured architecture and high-quality implementation. 
 
 My goal is to design reliable solutions that make a positive impact on people’s lives.
 
